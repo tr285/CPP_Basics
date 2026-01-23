@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tukaramgore/Documents/codeforces1/output/permutation'
+relocations:     []
+...

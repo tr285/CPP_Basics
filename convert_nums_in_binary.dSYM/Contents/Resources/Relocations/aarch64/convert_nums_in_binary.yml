@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tukaramgore/Documents/codeforces1/convert_nums_in_binary'
+relocations:     []
+...
